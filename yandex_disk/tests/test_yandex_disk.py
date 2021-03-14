@@ -17,6 +17,3 @@ class TestYaDisk:
         filenames = sorted([el['name'] for el in files])
         cp.open_full_url()
         assert cp.get_all_filenames() == filenames
-        # a = cp.get_all_filenames()
-        # a = 'f'
-
