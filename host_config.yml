@@ -1,0 +1,9 @@
+
+yandex_disk:
+  name: yandex_disk
+  host: "https://disk.yandex.ru"
+  host_api: "https://cloud-api.yandex.net"
+
+yandex_passport:
+  name: yandex_passport
+  host: "https://passport.yandex.ru"
